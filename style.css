@@ -1,0 +1,34 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Goldman&display=swap');
+
+
+body{
+    margin: 0;
+}
+
+
+.hero{
+    width: 100%;
+    height: 80vh;
+    background-image: url("kepek/Imagine\ Dragons3.jpg");
+    background-size: cover;
+    background-position-x: center;
+    background-position-y: center;
+    
+}
+.hero h1{
+    margin: 0;
+    color: Black;
+    font-size: 5em;
+    font-family: 'Goldman', cursive;
+    text-align: center;
+}   
+
+table tr td img{
+    width: 100%;
+
+}
+
+table tr td{
+    width: 33vw;
+}
